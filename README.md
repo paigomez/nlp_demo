@@ -5,7 +5,7 @@ It takes 5 random sentences from wikipedia, splits them into tokens and entities
 
 ### How to use:
 * Install dependencies: `pip3 install -r requirements.txt`
-* Install language model: `python -m spacy download en_core_web_md`
+* Install language model: `python -m spacy download en_core_web_sm`
 * Run program: `python garden.py`
 
 ### Credits
